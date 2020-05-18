@@ -1,16 +1,20 @@
-.container{
-    margin-bottom: 80px;
+.container {
+    margin-bottom: 50px;
 }
-.car-bg{
-    background-color:#feeae9;
+
+.car-bg {
+    background-color: #feeae9;
 }
-.carousel-item{
+
+.carousel-item {
     padding: 20px 40px;
-} 
-.price{
+}
+
+.price {
     color: coral;
 }
-.buy-btn{
+
+.buy-btn {
     background-image: linear-gradient(to bottom, rgb(236, 145, 8) 10%, rgb(216, 155, 23) 90%);
     color: cornsilk;
     border: none;
@@ -19,6 +23,35 @@
     cursor: pointer;
     margin-top: 10px;
 }
-.carousel-indicators .active{
+
+.carousel-indicators .active {
     background-color: #f00;
+}
+
+.cat1 {
+    background-color: blue;
+}
+
+.cat2 {
+    background-color: cadetblue;
+}
+
+.cat3 {
+    background-color: coral;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.categories h1 {
+    color: cornsilk;
+}
+
+.categories img {
+    width: 100px;
 }
