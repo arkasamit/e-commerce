@@ -55,3 +55,24 @@
 .categories img {
     width: 100px;
 }
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightskyblue;
+}
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+    ;
+}
+
+#subscribe {
+    background-color: thistle;
+    height: 300px;
+    display: flex;
+}
+
+#subscribe h6 {
+    color: grey;
+}
